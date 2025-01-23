@@ -1,0 +1,14 @@
+{
+  "name": "solpk-converter",
+  "version": "1.0.0",
+  "description": "converts sol base58 pk to array pk one per line in txt file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bs58": "^6.0.0"
+  }
+}
